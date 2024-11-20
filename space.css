@@ -1,11 +1,14 @@
 body{
     height: auto;
+    background-image: url(c:\homejava\da3682d958421855befaad7bbbe246df.jpg);
 }
 .nav {
-    background-color: aqua;
+    background-color: rgb(5, 12, 12);
     height: 30px;
     padding: 10px;
     margin: 1px;
+    
+  
 }
 .logo {
     height: 40px;
@@ -13,11 +16,21 @@ body{
     margin-left: 2px;
 }
 .sp{
+    font-size:xx-large;
+    display: block;
    
+}
+.sp2{
+      margin-left: 70px;
+      height: auto;
+      font-size: x-large;
 }
 .sec{
    
     display: block;
     padding:30px;
     height: 200px;
-}
+    background-color: brown;
+    
+   
+} 
